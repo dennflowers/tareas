@@ -1,0 +1,20 @@
+body{
+    background: rgb(203, 114, 182);
+    background: linear-gradient(176deg, rgb(233, 163, 219) 0%, rgb(178, 80, 149) 74%);
+    background-repeat: none;
+    height: 120vh;
+    color: rgb(255, 255, 255);
+}
+
+.logo-kitty{
+    width: 40px;
+    height: auto;
+}
+
+.obtain-date-container{
+    max-width: 680px;
+    margin-top: 4em;
+    border-radius: 8px;
+    border: 2px solid rgba(234, 7, 237, 0.538);
+    background-color: rgba(139, 12, 118, 0.239);
+}
